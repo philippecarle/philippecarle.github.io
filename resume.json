@@ -1,0 +1,293 @@
+{
+  "basics": {
+    "name": "Philippe CARLE",
+    "label": "Web Developer",
+    "picture": "http://ca.rlephilip.pe/carlephilippe.jpg",
+    "email": "c@rlephilip.pe",
+    "phone": "(33) 6 80 89 14 67",
+    "website": "ca.rlephilip.pe",
+    "summary": "Hi! I'm a french web developer.\nI've been working on advanced backend web apps in PHP using the Symfony Framework for the last past 5 years.\nI'm comfortable with frontend tooling (gulp, webpack, npm, yarn sass, less, ...) and actually learning ReactJS.\nSystem administration is far from being another world to me.\nThe Go language looks very interesting to me and I am currently practicing a lot by implementing small utils and APIs as side-projects.\nAs a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
+    "location": {
+      "address": "La Croix Verte",
+      "postalCode": "37230",
+      "city": "Luynes",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "philippecarle",
+        "url": "https://github.com/philippecarle"
+      },
+      {
+        "network": "Twitter",
+        "username": "carle_philippe",
+        "url": "https://twitter.com/philippe_carle"
+      },
+      {
+        "network": "Linkedin",
+        "username": "philcarle",
+        "url": "https://www.linkedin.com/in/philcarle/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TLD Europe 🛫",
+      "position": "Lead Developer",
+      "website": "https://www.tld-group.com",
+      "startDate": "2016-06-20",
+      "summary": "Management and development of web applications for the group with an internation team. Support for progressive migration of all source code to Symfony 3 with continuous delivery. Team management, code reviews, prioritization of tasks, specifications, external providers communication.",
+      "highlights": [
+        "Manage international projects",
+        "Testing, CI, automated deployment, Best Practices",
+        "Symfony encapsulation of a legacy system",
+        "Progressive migration"
+      ]
+    },
+    {
+      "company": "Apodis Pharma 💊",
+      "position": "Lead Developer",
+      "website": "https://www.apodispharma.com",
+      "startDate": "2014-09-01",
+      "endDate": "2013-06-20",
+      "summary": "Development of several versions of the services and purchasing platform for 750 pharmacies, technical direction for several side projects, R&D, maintenance and optimization, management of the team. Development of a REST API of data resulting from live and complex calculations related to sales of pharmacist (~300M records). Refactoring of all systems to a service-oriented architecture in 2015. Implementation of a centralized authentication system based on advanced JWT auth.",
+      "highlights": [
+        "Startup Environment",
+        "Management and coaching of 9 frontend & backend developers",
+        "Advanced pharmaceutical sales data analysis",
+        "Multiple projects management"
+      ]
+    },
+    {
+      "company": "Itch 🎨",
+      "position": "Founder",
+      "website": "",
+      "startDate": "2008-09-01",
+      "endDate": "2013-09-01",
+      "summary": "Management of the company (2 associates), web development and graphic design on behalf of private (including Apodis Pharma) and public customers.",
+      "highlights": [
+        "Started as a Freelance",
+        "Customer commercial and technical relations",
+        "Quotations, comptability",
+        "Commitment, self-enhancement, continuous learning"
+      ]
+    },
+    {
+      "company": "Université François Rabelais 🏫",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "2012-09-01",
+      "endDate": "2015-09-01",
+      "summary": "Teacher in graphic design and web technologies for the College and for the Notre-Dame La Riche Institute (~500h per year).",
+      "highlights": [
+        "Pedagogy, transmission of knowledge"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SensioLabs",
+      "area": "Paris",
+      "studyType": "Coaching",
+      "startDate": "2016-09-01",
+      "endDate": "2017-07-01",
+      "gpa": "",
+      "courses": [
+        "Coaching and review of TLD Developments",
+        "Best practices & advanced testing"
+      ]
+    },
+    {
+      "institution": "SensioLabs",
+      "area": "World",
+      "studyType": "Conferences",
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-31",
+      "gpa": "",
+      "courses": [
+        "SymfonyCon Berlin 2016",
+        "SymfonyLive San Francisco 2015",
+        "SymfonyCon Paris 2015"
+      ]
+    },
+    {
+      "institution": "SensioLabs",
+      "area": "Paris",
+      "studyType": "Professional training",
+      "startDate": "2014-09-01",
+      "endDate": "2014-09-05",
+      "gpa": "",
+      "courses": [
+        "Symfony"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Master 🎖️",
+      "keywords": [
+        "PHP",
+        "Go",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Aficionados 🌵",
+      "keywords": [
+        "PHPUnit",
+        "Behat",
+        "Blackfire",
+        "TDD",
+        "BDD"
+      ]
+    },
+    {
+      "name": "REST",
+      "level": "Evangelist ⛪",
+      "keywords": [
+        "API",
+        "JSON",
+        "Hypermedia"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Ninja 🥋",
+      "keywords": [
+        "PHP",
+        "Framework"
+      ]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Beginner 🐥",
+      "keywords": [
+        "Javascript",
+        "Framework"
+      ]
+    },
+    {
+      "name": "CI",
+      "level": "Lover ❤️",
+      "keywords": [
+        "Gitlab",
+        "Travis",
+        "Scrutinizer"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Consumer 🥞",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Enthusiast 🎉",
+      "keywords": [
+        "docker-compose",
+        "containerization"
+      ]
+    },
+    {
+      "name": "Tooling",
+      "level": "Addict 🦄",
+      "keywords": [
+        "Composer",
+        "PHPStan",
+        "PHPCSFixer",
+        "Webpack",
+        "Linters",
+        "NPM",
+        "Yarn",
+        "Gulp"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "Power-User 💪🏻",
+      "keywords": [
+        "Mac OS X",
+        "Linux (Debian)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English 🇺🇸",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French 🇫🇷",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music 🔊",
+      "keywords": [
+        "Electronic",
+        "Acoustic Pop",
+        "Experimental",
+        "Drummer"
+      ]
+    },
+    {
+      "name": "Burning Man 🔥",
+      "keywords": [
+        "Festival",
+        "USA",
+        "5 editions"
+      ]
+    },
+    {
+      "name": "Travel ✈️",
+      "keywords": [
+        "California",
+        "Oregon",
+        "Nevada",
+        "Spain",
+        "Portugal",
+        "Netherland",
+        "Germany",
+        "Denmarks",
+        "Québec"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "API2Go",
+      "description": "JSONAPI.org implementation for Go",
+      "highlights": [
+        "Split the main CRUD interface, rewrote the tests"
+      ],
+      "keywords": [
+        "Go", "API", "JSONAPI"
+      ],
+      "startDate": "2017-06-03",
+      "endDate": "2017-06-05",
+      "url": "https://github.com/manyminds/api2go",
+      "roles": [
+        "Contributor"
+      ],
+      "entity": "Manyminds",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/philippecarle/philippecarle.github.io/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-08-09T17:33:00"
+  }
+}

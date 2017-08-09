@@ -1,34 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- General meta -->
+    <meta name="identifier-url" content="http://ca.rlephilip.pe/" />
+    <meta name="title" content="Philippe CARLE - Web Developer" />
+    <meta name="description" content="Resume of Philippe CARLE" />
+    <meta name="keywords" content="Philippe, Carle, developer, php, symfony, golang" />
+    <meta name="author" content="Philippe CARLE" />
+    <meta name="revisit-after" content="15" />
+    <meta name="language" content="EN" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="Resume of Philippe CARLE">
+    <meta name="twitter:site" content="@carle_philippe">
+    <meta name="twitter:title" content="Philippe CARLE, web developer">
+    <meta name="twitter:description" content="echo $(whoami)">
+    <meta name="twitter:creator" content="@carle_philippe">
+    <meta name="twitter:image" content="http://ca.rlephilip.pe/carlephilippe.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Philippe CARLE" />
+    <meta property="og:type" content="resume" />
+    <meta property="og:url" content="http://ca.rlephilip.pe/" />
+    <meta property="og:image" content="http://ca.rlephilip.pe/carlephilippe.jpg" />
+    <meta property="og:description" content="Resume of Philippe CARLE" />
+    <meta property="og:site_name" content="Philippe CARLE, french web developer" />
+
     <title>Philippe CARLE</title>
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
-    <style>
-        body {
-            background: #02171f;
-            color: #FFF;
-            padding-top: 20vh;
-            line-height: 1.6vmin;
-        }
-
-        #hello-world {
-            display: inline-block;
-            font-family: "Courier New", Courier, monospace;
-            text-align: left;
-            font-size: 1.5vmin;
-        }
-
-        .cursive {
-            font-family: 'Great Vibes', cursive;
-            font-size: 150%;
-        }
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
 </head>
 <body>
 <div class="container">
-    <div class="row">
+    <section class="row">
         <div class="col-sd-12 text-center">
             <div id="hello-world">
                 <p>
@@ -57,9 +68,153 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`..`&nbsp;&nbsp;&nbsp;`.`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`..`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`..`&nbsp;&nbsp;`...&nbsp;&nbsp;&nbsp;&nbsp;`.`&nbsp;&nbsp;&nbsp;```<br>
                 </p>
             </div>
-            <p>from <span class="cursive">philippe carle</span></p>
+            <p id="from">from <span class="cursive">philippe carle</span></p>
+            <div class="row" id="decoration">
+                <div class="col-sm-4 hidden-xs"><hr></div>
+                <div class="col-xs-12 col-sm-4">
+                    <div id="sphere-container">
+                        <div id="sphere"></div>
+                        <div id="rocket-orbit">
+                            <div id="rocket">🚀</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 hidden-xs"><hr></div>
+            </div>
         </div>
-    </div>
-</div>
+    </section>
+    <section class="row text-center">
+        <h1 id="title">
+            <small class="cursive">i am a</small> Web Developer <span class="typed-cursor" style="animation-iteration-count: infinite;">|</span>
+        </h1>
+    </section>
+    <nav class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <ul class="nav nav-tabs" id="resume-tabs" role="tablist">
+                <li role="presentation" class="active"><a href="#resume-json" aria-controls="home" role="tab"
+                                                          data-toggle="tab">json</a></li>
+                <li role="presentation"><a href="#resume-human" aria-controls="home" role="tab" data-toggle="tab">human-readable</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <main class="row">
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="resume-json">
+                <div class="col-md-8 col-md-offset-2">
+                    <pre><code class="json" lang="json"></code></pre>
+                </div>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="resume-human">
+                <div class="col-md-12">
+                    <p class="text-right"><a href="http://registry.jsonresume.org/philippecarle" target="_blank">open in new tab</a></p>
+                    <div class="iframe-holder">
+                        <iframe class="embed-responsive-item" src="http://registry.jsonresume.org/philippecarle"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/86/three.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#resume-tabs a').click(function (e) {
+                e.preventDefault();
+                $(this).tab('show')
+            });
+
+            $.ajax({
+                url: "resume.json",
+                type: 'GET',
+                dataType: 'json',
+                success: function (json) {
+                    console.log(json);
+                    $('code.json').html(JSON.stringify(json, null, 2));
+                    $("code.json").each(function (i, block) {
+                        hljs.highlightBlock(block);
+                    });
+                }
+            });
+
+            var $container = $('#sphere');
+            var renderer = new THREE.WebGLRenderer({
+                alpha: true,
+                antialias: true
+            });
+            var camera = new THREE.PerspectiveCamera(45, 1, 0.1, 172);
+            var scene = new THREE.Scene();
+
+            scene.add(camera);
+            renderer.setSize(240, 240);
+            $container.append(renderer.domElement);
+
+            // Camera
+            camera.position.z = 150;
+
+            // Material
+            var white = new THREE.MeshPhongMaterial({
+                color: new THREE.Color('rgb(255,255,255)'),
+                emissive: new THREE.Color('rgb(255,255,255)'),
+                wireframe: true,
+                emissiveIntensity: 5,
+                transparent: true,
+                opacity: 0.1
+            });
+
+            var Ico = new THREE.Mesh(new THREE.IcosahedronGeometry(45, 2), white);
+
+            var pointsMat = new THREE.MeshStandardMaterial({
+                color: new THREE.Color('rgb(255,255,255)'),
+                emissive: new THREE.Color('rgb(255,255,255)'),
+                emissiveIntensity: 5
+            });
+
+            _.each(Ico.geometry.vertices, function(v, i) {
+                var sphere = new THREE.Mesh(new THREE.SphereGeometry(0.8, 12, 12), pointsMat);
+
+                // Calculate average centroid of the two triangles
+                sphere.position.set(v.x, v.y, v.z);
+                sphere.name = 'sphere' + i;
+
+                scene.add(sphere)
+            });
+
+            scene.add(Ico);
+
+            function update (scene) {
+                Ico.geometry.applyMatrix(Ico.matrix);
+
+                Ico.rotation.set(0.003, 0.005, -0.0005);
+                Ico.updateMatrix();
+                Ico.updateMatrix();
+
+                _.each(Ico.geometry.vertices, function(v, i) {
+                    Ico.geometry.verticesNeedUpdate = true;
+
+                    var s = scene.getObjectByName('sphere' + i);
+
+                    s.position.x = 0.4 + v.x;
+                    s.position.y = v.y;
+                    s.position.z = v.z
+                });
+            }
+
+// Render
+            function render () {
+                window.requestAnimationFrame(render);
+                renderer.render(scene, camera);
+                update(scene)
+            }
+
+            render()
+        });
+    </script>
 </body>
 </html>
