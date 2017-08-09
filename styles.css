@@ -57,7 +57,7 @@ a, a:hover {
 
 #rocket-orbit {
     position: absolute;
-    top: -55px;
+    top: -70px;
     left: -55px;
     width: 350px;
     height: 350px;
@@ -198,14 +198,14 @@ pre, code {
 @keyframes rocket
 {
     0% {opacity: 1; font-size: 4.5vmin}
-    50% {opacity: 0.6; font-size: 3vmin}
+    50% {opacity: 0.6; font-size: 1vmin}
     100% {opacity: 1; font-size: 4.5vmin}
 }
 
 @-webkit-keyframes rocket
 {
     0% {opacity: 1; font-size: 4.5vmin}
-    50% {opacity: 0.6; font-size: 3vmin}
+    50% {opacity: 0.6; font-size: 1vmin}
     100% {opacity: 1; font-size: 4.5vmin}
 }
 
