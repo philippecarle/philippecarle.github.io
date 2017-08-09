@@ -38,6 +38,10 @@ a, a:hover {
     margin: 0 auto;
     position: relative;
     rotation: 30deg;
+    border: 1px #FFF dashed;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
 }
 
 #rocket {
