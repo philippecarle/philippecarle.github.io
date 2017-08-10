@@ -1,7 +1,8 @@
 body {
     background: #02171f;
     color: #FFF;
-    padding-top: 5vh;
+    padding-top: 50px;
+    padding-bottom: 200px;
     font-family: 'Playfair Display', serif;
 }
 
@@ -45,7 +46,7 @@ a, a:hover {
 }
 
 #rocket {
-    font-size: 5vmin;
+    font-size: 5vh;
     -ms-transform: rotate(49deg); /* IE 9 */
     -webkit-transform: rotate(49deg); /* Chrome, Safari, Opera */
     transform: rotate(49deg);
@@ -197,16 +198,16 @@ pre, code {
 
 @keyframes rocket
 {
-    0% {opacity: 1; font-size: 4.5vmin}
-    50% {opacity: 0.6; font-size: 1vmin}
-    100% {opacity: 1; font-size: 4.5vmin}
+    0% {opacity: 1; font-size: 4.5vh}
+    50% {opacity: 0.6; font-size: 1vh}
+    100% {opacity: 1; font-size: 4.5vh}
 }
 
 @-webkit-keyframes rocket
 {
-    0% {opacity: 1; font-size: 4.5vmin}
-    50% {opacity: 0.6; font-size: 1vmin}
-    100% {opacity: 1; font-size: 4.5vmin}
+    0% {opacity: 1; font-size: 4.5vh}
+    50% {opacity: 0.6; font-size: 1vh}
+    100% {opacity: 1; font-size: 4.5vh}
 }
 
 .iframe-holder {
