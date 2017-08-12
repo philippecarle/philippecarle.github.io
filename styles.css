@@ -16,6 +16,14 @@ a, a:hover {
     border: 0;
 }
 
+.container-fluid {
+    padding: 0;
+}
+
+iframe {
+    border: 0;
+}
+
 #decoration {
     margin: 5vh 0;
 }
