@@ -6,7 +6,7 @@
     "email": "c@rlephilip.pe",
     "phone": "(33) 6 80 89 14 67",
     "website": "http://ca.rlephilip.pe",
-    "summary": "Hi! I'm a french web developer. I've been working on advanced backend web apps in PHP using the Symfony Framework for the last past 5 years. I'm comfortable with frontend tooling (gulp, webpack, npm, yarn sass, less, ...) and actually learning ReactJS. System administration is far from being another world to me. The Go language looks very interesting to me and I am currently practicing a lot by implementing small utils and APIs as side-projects. As a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
+    "summary": "Hi! I'm a french web developer. I've been working on advanced backend web apps in PHP using the Symfony Framework for the last past 5 years. I'm comfortable with frontend tooling (gulp, webpack, npm, yarn sass, less, ...) and actually learning ReactJS. Linux Systems administration is far from being another world to me. The Go language looks very interesting to me and I am currently practicing a lot by implementing small utils and APIs as side-projects. As a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
     "location": {
       "address": "La Croix Verte",
       "postalCode": "37230",
@@ -38,7 +38,7 @@
       "position": "Lead Developer",
       "website": "https://www.tld-group.com",
       "startDate": "2016-06-20",
-      "summary": "Management and development of web applications for the group with an internation team. Support for progressive migration of all source code to Symfony 3 with continuous delivery. Team management, code reviews, prioritization of tasks, specifications, external providers communication.",
+      "summary": "Management and development of web applications for the group with an international team. Support for progressive migration of all codebase to Symfony with continuous delivery. Team management, code reviews, prioritization of tasks, specifications, external providers communication.",
       "highlights": [
         "Manage international projects",
         "Testing, CI, automated deployment, Best Practices",
@@ -52,9 +52,9 @@
       "website": "https://www.apodispharma.com",
       "startDate": "2014-09-01",
       "endDate": "2013-06-20",
-      "summary": "Development of several versions of the services and purchasing platform for 750 pharmacies, technical direction for several side projects, R&D, maintenance and optimization, management of the team. Development of a REST API of data resulting from live and complex calculations related to sales of pharmacist (~300M records). Refactoring of all systems to a service-oriented architecture in 2015. Implementation of a centralized authentication system based on advanced JWT auth.",
+      "summary": "Development of several versions of the services and purchasing platform for 750 french pharmacies, technical direction for several side projects, R&D, maintenance and optimization, management of the team. Development of a REST API exposing data resulting from live and complex calculations related to sales of pharmacist (~700M records). Refactoring of all systems to a service-oriented architecture in 2015. Implementation of a centralized authentication system based on advanced JWT auth trading through the SOA architecture.",
       "highlights": [
-        "Startup Environment",
+        "Startup Environment & Agility",
         "Management and coaching of 9 frontend & backend developers",
         "Advanced pharmaceutical sales data analysis",
         "Multiple projects management"
@@ -66,11 +66,11 @@
       "website": "",
       "startDate": "2008-09-01",
       "endDate": "2013-09-01",
-      "summary": "Management of the company (2 associates), web development and graphic design on behalf of private (including Apodis Pharma) and public customers.",
+      "summary": "Management of the company (2 associates), web development and graphic design on behalf of private (including Apodis Pharma) customers and administrations.",
       "highlights": [
         "Started as a Freelance",
-        "Customer commercial and technical relations",
-        "Quotations, comptability",
+        "Commercial and technical relations with customers",
+        "Quotations, countability",
         "Commitment, self-enhancement, continuous learning"
       ]
     },
@@ -82,7 +82,7 @@
       "endDate": "2015-09-01",
       "summary": "Teacher in graphic design and web technologies for the College and for the Notre-Dame La Riche Institute (~500h per year).",
       "highlights": [
-        "Pedagogy, transmission of knowledge"
+        "Pedagogy, knowledge transmission"
       ]
     }
   ],
@@ -96,7 +96,7 @@
       "endDate": "2017-07-01",
       "gpa": "",
       "courses": [
-        "Coaching and review of TLD Developments",
+        "Coaching and reviews of TLD Developments",
         "Best practices & advanced testing"
       ]
     },
@@ -187,6 +187,7 @@
       "level": "Consumer 🥞",
       "keywords": [
         "MySQL",
+        "ElasticSearch",
         "MongoDB"
       ]
     },
@@ -194,7 +195,8 @@
       "name": "Docker",
       "level": "Enthusiast 🎉",
       "keywords": [
-        "docker-compose",
+        "docker",
+        "compose",
         "containerization"
       ]
     },
@@ -209,7 +211,8 @@
         "Linters",
         "NPM",
         "Yarn",
-        "Gulp"
+        "Gulp",
+        "CMake"
       ]
     },
     {
@@ -217,7 +220,7 @@
       "level": "Power-User 💪🏻",
       "keywords": [
         "Mac OS X",
-        "Linux (Debian)"
+        "Linux (Debian / CentOS)"
       ]
     }
   ],
@@ -260,7 +263,8 @@
         "Netherland",
         "Germany",
         "Denmarks",
-        "Québec"
+        "Québec",
+        "Croatia"
       ]
     }
   ]

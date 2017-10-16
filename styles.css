@@ -32,12 +32,22 @@ iframe {
     height: 240px;
 }
 
-#decoration hr {
-    border: 0.5px #FFF dashed;
+hr {
+    height: 1px;
+    border: 0;
+    background: black;
     position: relative;
     top: 50%;
     padding: 0;
     margin: 0;
+}
+
+hr.to-right {
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#02171f), to(white));
+}
+
+hr.to-left {
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(#02171f));
 }
 
 #sphere-container {
