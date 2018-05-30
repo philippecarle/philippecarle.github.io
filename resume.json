@@ -4,13 +4,13 @@
     "label": "Web Developer",
     "picture": "http://ca.rlephilip.pe/carlephilippe.jpg",
     "email": "c@rlephilip.pe",
-    "phone": "(33) 6 80 89 14 67",
+    "phone": "+33 6 80 89 14 67",
     "website": "http://ca.rlephilip.pe",
-    "summary": "Hi! I'm a french web developer. I've been working on advanced backend web apps in PHP using the Symfony Framework for the last past 5 years. I'm comfortable with frontend tooling (gulp, webpack, npm, yarn sass, less, ...) and actually learning ReactJS. Linux Systems administration is far from being another world to me. The Go language looks very interesting to me and I am currently practicing a lot by implementing small utils and APIs as side-projects. As a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
+    "summary": "Hi! I'm a french web developer. I've been working on advanced web apps & APIs in PHP using the Symfony Framework for the last past 6 years. I'm comfortable with frontend tooling (webpack, npm, yarn sass, less...) and actually learning ReactJS. Linux Systems administration is far from being another world to me. The Go language looks very interesting to me and I am currently practicing a lot by implementing small utils and APIs as side-projects. As a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
     "location": {
-      "address": "La Croix Verte",
-      "postalCode": "37230",
-      "city": "Luynes",
+      "address": "16 place André Delaunay",
+      "postalCode": "37250",
+      "city": "Montbazon",
       "countryCode": "FR",
       "region": ""
     },
@@ -28,7 +28,7 @@
       {
         "network": "Linkedin",
         "username": "philcarle",
-        "url": "https://www.linkedin.com/in/philcarle/"
+        "url": "https://www.linkedin.com/in/philcarle"
       }
     ]
   },
@@ -70,8 +70,11 @@
       "highlights": [
         "Started as a Freelance",
         "Commercial and technical relations with customers",
-        "Quotations, countability",
-        "Commitment, self-enhancement, continuous learning"
+        "Quotations",
+        "Countability",
+        "Commitment",
+        "Self-enhancement",
+        "Continuous learning"
       ]
     },
     {
@@ -88,6 +91,18 @@
   ],
   "volunteer": [],
   "education": [
+    {
+      "institution": "DotGo",
+      "area": "Paris",
+      "studyType": "Conferences & Workshop",
+      "startDate": "2017-11-06",
+      "endDate": "2017-11-07",
+      "gpa": "",
+      "courses": [
+        "DotGo Conferences",
+        "One day workshop with William Kennedy (Ardan Labs)"
+      ]
+    },
     {
       "institution": "SensioLabs",
       "area": "Paris",
@@ -264,7 +279,8 @@
         "Germany",
         "Denmarks",
         "Québec",
-        "Croatia"
+        "Croatia",
+        "South Africa"
       ]
     }
   ]
