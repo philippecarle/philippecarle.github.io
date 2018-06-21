@@ -6,13 +6,13 @@
     "email": "c@rlephilip.pe",
     "phone": "+33 6 80 89 14 67",
     "website": "http://ca.rlephilip.pe",
-    "summary": "Hi! I'm a French web developer. I've been working on advanced web apps & APIs in PHP using the Symfony Framework for the past 6 years. I'm comfortable with frontend tooling (webpack, npm, yarn, sass, less...) and currently learning ReactJS. Linux Systems administration is far from being another world to me. I'm very interested by the Go language and I am currently practicing a lot by implementing small utils and APIs as side-projects. As a developer, I went from a \"Test sensitive parts of your application\" to a \"Test all the things!\" credo.",
+    "summary": "Hi! \nI'm a French web developer. I've been working as a Lead Developer on advanced web apps & APIs in PHP using mainly the Symfony Framework in a small successful startup and an international industrial group for the past 6 years. \nI always advocate in my teams for best practices compliance as well as I keep in mind business' needs and features-delivery expectations 🚀. \nI'm comfortable with frontend tooling as well (webpack, npm, yarn, sass, less...) and I'm currently learning ReactJS. Linux Systems administration is far from being another world to me. \nI'm very interested by the Go language and I am using it intensively in my personal projects.",
     "location": {
       "address": "16 place André Delaunay",
       "postalCode": "37250",
       "city": "Montbazon",
       "countryCode": "FR",
-      "region": ""
+      "region": null
     },
     "profiles": [
       {
@@ -38,12 +38,12 @@
       "position": "Lead Developer",
       "website": "https://www.tld-group.com",
       "startDate": "2016-06-20",
-      "summary": "Management and development of web applications for the group with an international team. Support for progressive migration of all codebase to Symfony with continuous delivery. Team management, code reviews, prioritization of tasks, specifications, external providers communication.",
+      "summary": "Management and development of web applications for the group with an international team. Support for progressive migration of all the legacy codebase (~800K LOC) to Symfony and continuous delivery of new features. Team management, code reviews, prioritization of tasks, specifications, external providers communication.",
       "highlights": [
-        "Manage international projects",
+        "Management of international group-wise projects",
         "Testing, CI, automated deployment, Best Practices",
         "Symfony encapsulation of a legacy system",
-        "Progressive migration"
+        "Progressive migration of a big procedural codebase"
       ]
     },
     {
@@ -52,21 +52,22 @@
       "website": "https://www.apodispharma.com",
       "startDate": "2014-09-01",
       "endDate": "2013-06-20",
-      "summary": "Development of several versions of the services and purchasing platform for 750 french pharmacies, technical direction for several side projects, R&D, maintenance and optimization, management of the team. Development of a REST API exposing data resulting from live and complex calculations related to sales of pharmacist (~700M records). Refactoring of all systems to a service-oriented architecture in 2015. Implementation of a centralized authentication system based on advanced JWT auth trading through the SOA architecture.",
+      "summary": "Development of several versions of the services and purchasing platform for 750 french pharmacies, technical direction for several side projects, R&D, maintenance and optimization, management of the team. Development of a REST API exposing data resulting from live and complex calculations related to sales of pharmacist (~700M records). Refactoring of all systems to a service-oriented architecture in 2015. Implementation of a centralized authentication system based on advanced JWT auth trading through the SOA architecture. Products built during those years allowed the company to raise 7M€.",
       "highlights": [
         "Startup Environment & Agility",
         "Management and coaching of 9 frontend & backend developers",
         "Advanced pharmaceutical sales data analysis",
-        "Multiple projects management"
+        "Multiple projects management",
+        "7M€ fund raising"
       ]
     },
     {
       "company": "Itch 🎨",
       "position": "Founder",
-      "website": "",
+      "website": null,
       "startDate": "2008-09-01",
       "endDate": "2013-09-01",
-      "summary": "Management of the company (2 associates), web development and graphic design on behalf of private (including Apodis Pharma) customers and administrations.",
+      "summary": "Management of the company, web development and graphic design on behalf of various companies (including Apodis Pharma) and public administrations.",
       "highlights": [
         "Started as a Freelance",
         "Commercial and technical relations with customers",
@@ -80,12 +81,27 @@
     {
       "company": "Université François Rabelais 🏫",
       "position": "Teacher",
-      "website": "",
+      "website": null,
       "startDate": "2012-09-01",
       "endDate": "2015-09-01",
-      "summary": "Teacher in graphic design and web technologies for the College and for the Notre-Dame La Riche Institute (~500h per year).",
+      "summary": "Teacher in graphic design and web technologies for the University and for the Notre-Dame La Riche Institute (~500h per year).",
       "highlights": [
-        "Pedagogy, knowledge transmission"
+        "Pedagogy",
+        "knowledge transmission"
+      ]
+    },
+    {
+      "company": "Théâtre Nouvel Olympia 🎭",
+      "position": "Public relations assistant",
+      "website": null,
+      "startDate": "2004-03-01",
+      "endDate": "2008-09-01",
+      "summary": "Involved in many of the administrative and communication-related processes inside the theater, from fine analysis of audience until mass-mailing, including comedians welcoming, openers hiring and ticketing systems management",
+      "highlights": [
+        "Versatility",
+        "Adaptability",
+        "DIY & low-cost solutions",
+        "Culture"
       ]
     }
   ],
@@ -97,10 +113,10 @@
       "studyType": "Conferences & Workshop",
       "startDate": "2017-11-06",
       "endDate": "2017-11-07",
-      "gpa": "",
+      "gpa": null,
       "courses": [
         "DotGo Conferences",
-        "One day workshop with William Kennedy (Ardan Labs)"
+        "One-day workshop with William Kennedy (Managing partner at Ardan Labs)"
       ]
     },
     {
@@ -109,7 +125,7 @@
       "studyType": "Coaching",
       "startDate": "2016-09-01",
       "endDate": "2017-07-01",
-      "gpa": "",
+      "gpa": null,
       "courses": [
         "Coaching and reviews of TLD Developments",
         "Best practices & advanced testing"
@@ -121,7 +137,7 @@
       "studyType": "Conferences",
       "startDate": "2015-01-01",
       "endDate": "2016-12-31",
-      "gpa": "",
+      "gpa": null,
       "courses": [
         "SymfonyCon Berlin 2016",
         "SymfonyLive San Francisco 2015",
@@ -134,7 +150,7 @@
       "studyType": "Professional training",
       "startDate": "2014-09-01",
       "endDate": "2014-09-05",
-      "gpa": "",
+      "gpa": null,
       "courses": [
         "Symfony"
       ]
@@ -232,10 +248,21 @@
     },
     {
       "name": "OS",
-      "level": "Power-User 💪🏻",
+      "level": "Power-User 💪",
       "keywords": [
         "Mac OS X",
         "Linux (Debian / CentOS)"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "Veteran 🧓",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Indesign",
+        "HTML5",
+        "CSS3"
       ]
     }
   ],
@@ -270,14 +297,17 @@
     {
       "name": "Travel ✈️",
       "keywords": [
+        "United States of America",
         "California",
         "Oregon",
         "Nevada",
         "Spain",
         "Portugal",
+        "Scotland",
         "Netherland",
         "Germany",
-        "Denmarks",
+        "Denmark",
+        "Canada",
         "Québec",
         "Croatia",
         "South Africa"
