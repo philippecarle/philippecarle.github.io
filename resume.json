@@ -105,7 +105,34 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "GLAMF",
+      "position": "Local presidency, National Bureau and National Secretariat",
+      "url": "https://www.gl-amf.fr",
+      "startDate": "2010-02-17",
+      "endDate": null,
+      "summary": "Local and national associative involvement",
+      "highlights": [
+        "Management of local community",
+        "Management of a national association with ~15000 members",
+        "Esoteric and philosophical research, personal development"
+      ]
+    },
+    {
+      "organization": "Les Petites Sœurs des Pauvres",
+      "position": "Help for Christmas Eve",
+      "url": "https://petitessoeursdespauvres.org",
+      "startDate": "2012-12-24",
+      "endDate": "2012-12-25",
+      "summary": "Accompaniment of isolated people, picking them up by car and taking care of them, giving importance to their personal stories during a communal dinner.",
+      "highlights": [
+        "Being compassionate",
+        "Giving some of my time",
+        "Missing the traditional family Christmas Eve for those in need"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "DotGo",
@@ -117,6 +144,18 @@
       "courses": [
         "DotGo Conferences",
         "One-day workshop with William Kennedy (Managing partner at Ardan Labs)"
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "area": "Online",
+      "studyType": "Golang, Learn how to code by Todd McLeod",
+      "startDate": "2017-10-01",
+      "endDate": "2017-10-25",
+      "gpa": null,
+      "courses": [
+        "Learn how to code by Todd McLeod",
+        "Certificate on https://ude.my/UC-AEL49E62"
       ]
     },
     {
@@ -308,10 +347,15 @@
         "Germany",
         "Denmark",
         "Canada",
-        "Québec",
         "Croatia",
         "South Africa"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Martin Degenne - TLD",
+      "reference": "After working in his team for almost 2 years, I can say without a doubt that Philippe Carle is an excellent Lead Developer. \nDuring those two years, I spent at least an hour every week with him to follow my projects and find ways to deal with complex problems like optimization. He found time to teach me more about php and routing when I was struggling to understand parts of our technological stack and to listen to me when I had a different opinion about the best way to develop a solution. \nI know he was doing the same thing for everyone on the team but still never missed a meeting nor an important deadline despite the complicated and often tough environment. \nThe team grew stronger thanks to him and I will happily work with him in the future if the opportunity presents itself."
     }
   ]
 }
