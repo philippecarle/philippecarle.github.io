@@ -79,12 +79,12 @@
       ]
     },
     {
-      "company": "Université François Rabelais 🏫",
+      "company": "François Rabelais University, Notre-Dame-La-Riche Institute 🏫",
       "position": "Teacher",
       "website": null,
       "startDate": "2012-09-01",
       "endDate": "2015-09-01",
-      "summary": "Teacher in graphic design and web technologies for the University and for the Notre-Dame La Riche Institute (~500h per year).",
+      "summary": "Teacher in graphic design and web technologies for the University and for the Notre-Dame-La-Riche Institute (~500h per year).",
       "highlights": [
         "Pedagogy",
         "knowledge transmission"
@@ -219,11 +219,22 @@
       ]
     },
     {
+      "name": "Best Practices",
+      "level": "Guard 💂",
+      "keywords": [
+        "SOLID",
+        "KISS",
+        "Twelve-Factor App"
+      ]
+    },
+    {
       "name": "REST",
       "level": "Evangelist ⛪",
       "keywords": [
         "API",
         "JSON",
+        "Richardson Maturity Model",
+        "Level 3",
         "Hypermedia"
       ]
     },
@@ -274,6 +285,7 @@
       "name": "Tooling",
       "level": "Addict 🦄",
       "keywords": [
+        "Git",
         "Composer",
         "PHPStan",
         "PHPCSFixer",
