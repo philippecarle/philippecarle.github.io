@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cb3c45e.css",
+    "main.js": "/static/js/main.b5df6c5d.js",
+    "static/media/barlow-all-800-normal.woff": "/static/media/barlow-all-800-normal.22ed4fe48769bdf288fc.woff",
+    "static/media/barlow-all-600-normal.woff": "/static/media/barlow-all-600-normal.70164451de442ef58016.woff",
+    "static/media/barlow-all-400-normal.woff": "/static/media/barlow-all-400-normal.9a898b4c5f67effe33ec.woff",
+    "static/media/barlow-all-200-normal.woff": "/static/media/barlow-all-200-normal.56c8f5b739cf64d0fb51.woff",
+    "static/media/barlow-latin-800-normal.woff2": "/static/media/barlow-latin-800-normal.75e84414e288a170caa0.woff2",
+    "static/media/barlow-latin-600-normal.woff2": "/static/media/barlow-latin-600-normal.eb2f99b8088268cd34a2.woff2",
+    "static/media/barlow-latin-400-normal.woff2": "/static/media/barlow-latin-400-normal.7fa387951673abf164b1.woff2",
+    "static/media/barlow-latin-200-normal.woff2": "/static/media/barlow-latin-200-normal.9408c894bf023d9213dc.woff2",
+    "static/media/barlow-latin-ext-800-normal.woff2": "/static/media/barlow-latin-ext-800-normal.31a8a069df346e351fc2.woff2",
+    "static/media/barlow-latin-ext-600-normal.woff2": "/static/media/barlow-latin-ext-600-normal.fae4108c4094d122687d.woff2",
+    "static/media/barlow-latin-ext-400-normal.woff2": "/static/media/barlow-latin-ext-400-normal.da26d162ff5af71d6590.woff2",
+    "static/media/barlow-latin-ext-200-normal.woff2": "/static/media/barlow-latin-ext-200-normal.04b041c4676236c65484.woff2",
+    "static/media/barlow-vietnamese-600-normal.woff2": "/static/media/barlow-vietnamese-600-normal.3b0775f14ea9f8730d88.woff2",
+    "static/media/barlow-vietnamese-800-normal.woff2": "/static/media/barlow-vietnamese-800-normal.b70f5121464de6ba354d.woff2",
+    "static/media/barlow-vietnamese-200-normal.woff2": "/static/media/barlow-vietnamese-200-normal.3f906f53fb35f5a8dd48.woff2",
+    "static/media/barlow-vietnamese-400-normal.woff2": "/static/media/barlow-vietnamese-400-normal.7e78e8338af7efeda712.woff2",
+    "index.html": "/index.html",
+    "main.5cb3c45e.css.map": "/static/css/main.5cb3c45e.css.map",
+    "main.b5df6c5d.js.map": "/static/js/main.b5df6c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb3c45e.css",
+    "static/js/main.b5df6c5d.js"
+  ]
+}
