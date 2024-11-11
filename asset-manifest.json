@@ -1,29 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.59c19382.css",
-    "main.js": "/static/js/main.5d4c2bdd.js",
-    "static/media/barlow-all-800-normal.woff": "/static/media/barlow-all-800-normal.22ed4fe48769bdf288fc.woff",
-    "static/media/barlow-all-600-normal.woff": "/static/media/barlow-all-600-normal.70164451de442ef58016.woff",
-    "static/media/barlow-all-400-normal.woff": "/static/media/barlow-all-400-normal.9a898b4c5f67effe33ec.woff",
-    "static/media/barlow-all-200-normal.woff": "/static/media/barlow-all-200-normal.56c8f5b739cf64d0fb51.woff",
+    "main.css": "/static/css/main.bfbad48b.css",
+    "main.js": "/static/js/main.4cadefaa.js",
     "static/media/barlow-latin-800-normal.woff2": "/static/media/barlow-latin-800-normal.75e84414e288a170caa0.woff2",
     "static/media/barlow-latin-600-normal.woff2": "/static/media/barlow-latin-600-normal.eb2f99b8088268cd34a2.woff2",
     "static/media/barlow-latin-400-normal.woff2": "/static/media/barlow-latin-400-normal.7fa387951673abf164b1.woff2",
     "static/media/barlow-latin-200-normal.woff2": "/static/media/barlow-latin-200-normal.9408c894bf023d9213dc.woff2",
+    "static/media/barlow-latin-600-normal.woff": "/static/media/barlow-latin-600-normal.9e8fcdff1ae5ca562334.woff",
+    "static/media/barlow-latin-800-normal.woff": "/static/media/barlow-latin-800-normal.773545f755586ae14c64.woff",
+    "static/media/barlow-latin-400-normal.woff": "/static/media/barlow-latin-400-normal.c5f3640b11df9414facb.woff",
+    "static/media/barlow-latin-200-normal.woff": "/static/media/barlow-latin-200-normal.8e613bc84fb8253656b9.woff",
     "static/media/barlow-latin-ext-800-normal.woff2": "/static/media/barlow-latin-ext-800-normal.31a8a069df346e351fc2.woff2",
     "static/media/barlow-latin-ext-600-normal.woff2": "/static/media/barlow-latin-ext-600-normal.fae4108c4094d122687d.woff2",
     "static/media/barlow-latin-ext-400-normal.woff2": "/static/media/barlow-latin-ext-400-normal.da26d162ff5af71d6590.woff2",
     "static/media/barlow-latin-ext-200-normal.woff2": "/static/media/barlow-latin-ext-200-normal.04b041c4676236c65484.woff2",
+    "static/media/barlow-latin-ext-600-normal.woff": "/static/media/barlow-latin-ext-600-normal.5abe0b67c377151c5926.woff",
+    "static/media/barlow-latin-ext-800-normal.woff": "/static/media/barlow-latin-ext-800-normal.d64cdbc5bbfaa431c89c.woff",
+    "static/media/barlow-latin-ext-400-normal.woff": "/static/media/barlow-latin-ext-400-normal.47d566c3b1293dfd9d77.woff",
+    "static/media/barlow-latin-ext-200-normal.woff": "/static/media/barlow-latin-ext-200-normal.c6d4b895b9292f2c60a0.woff",
     "static/media/barlow-vietnamese-600-normal.woff2": "/static/media/barlow-vietnamese-600-normal.3b0775f14ea9f8730d88.woff2",
     "static/media/barlow-vietnamese-800-normal.woff2": "/static/media/barlow-vietnamese-800-normal.b70f5121464de6ba354d.woff2",
     "static/media/barlow-vietnamese-200-normal.woff2": "/static/media/barlow-vietnamese-200-normal.3f906f53fb35f5a8dd48.woff2",
     "static/media/barlow-vietnamese-400-normal.woff2": "/static/media/barlow-vietnamese-400-normal.7e78e8338af7efeda712.woff2",
+    "static/media/barlow-vietnamese-600-normal.woff": "/static/media/barlow-vietnamese-600-normal.347af3dd0ebabcd91b86.woff",
+    "static/media/barlow-vietnamese-800-normal.woff": "/static/media/barlow-vietnamese-800-normal.4a4df351b8e4937d0308.woff",
+    "static/media/barlow-vietnamese-400-normal.woff": "/static/media/barlow-vietnamese-400-normal.2d6836f45b2037be41f3.woff",
+    "static/media/barlow-vietnamese-200-normal.woff": "/static/media/barlow-vietnamese-200-normal.015232e3f618e6049d40.woff",
     "index.html": "/index.html",
-    "main.59c19382.css.map": "/static/css/main.59c19382.css.map",
-    "main.5d4c2bdd.js.map": "/static/js/main.5d4c2bdd.js.map"
+    "main.bfbad48b.css.map": "/static/css/main.bfbad48b.css.map",
+    "main.4cadefaa.js.map": "/static/js/main.4cadefaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.59c19382.css",
-    "static/js/main.5d4c2bdd.js"
+    "static/css/main.bfbad48b.css",
+    "static/js/main.4cadefaa.js"
   ]
 }
